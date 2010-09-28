@@ -1,0 +1,29 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bluecloth (2.0.9)
+    daemons (1.1.0)
+    eventmachine (0.12.10)
+    gli (1.1.1)
+    json (1.4.6)
+    nokogiri (1.4.3.1)
+    rack (1.2.1)
+    showoff (0.2.5)
+      bluecloth
+      gli (>= 1.1.0)
+      json
+      nokogiri
+      sinatra
+    sinatra (1.0)
+      rack (>= 1.0)
+    thin (1.2.7)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  showoff (= 0.2.5)
+  thin (= 1.2.7)

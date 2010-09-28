@@ -1,0 +1,12 @@
+{ "name": "5 Cultural DevOps Hurdles", 
+	"sections": [ 
+		{"section":"title"},
+		{"section":"about_me"},
+		{"section":"people"},
+		{"section":"process"},
+		{"section":"pain"},
+		{"section":"payment"},
+		{"section":"you"},
+		{"section":"credits"} 
+	]
+}
